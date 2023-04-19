@@ -1,5 +1,6 @@
-# ConditionalSwiftUI
 ![Thumbnail](./thumbnail.png)
+# ConditionalSwiftUI
+A Library that makes SwiftUI conditional statements easy
 
 ## Usage
 
