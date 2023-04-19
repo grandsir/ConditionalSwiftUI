@@ -1,6 +1,8 @@
 # ConditionalSwiftUI
 This package provides a set of view modifiers for conditional logic in SwiftUI.
 
+![Thumbnail](./thumbnail.png)
+
 ## Usage
 
 ### .if
