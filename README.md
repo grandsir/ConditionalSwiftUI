@@ -1,5 +1,5 @@
 # ConditionalSwiftUI
-This package provides a set of view modifiers for conditional logic in SwiftUI. It includes methods that conditionally modify a SwiftUI view based on a provided boolean expression or an optional value.
+This package provides a set of view modifiers for conditional logic in SwiftUI.
 
 ## Usage
 
