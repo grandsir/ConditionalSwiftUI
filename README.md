@@ -83,3 +83,6 @@ Toggle("I'm a conditionally modified Toggle!", isOn: .constant(true))
         }
     }
 ```
+
+### Implementation, and its drawbacks
+This implementaion is not new, and it's been used widely for the time being and it could cause you some trouble with animations, as described in this [article](https://www.objc.io/blog/2021/08/24/conditional-view-modifiers/), so be cautious about it when using this library.
